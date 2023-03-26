@@ -1,0 +1,11 @@
+{
+  "prefix" : ".",
+  "owner" : ["1069631890019069962","","",""],
+  "clientid" : "1079110345639084084",
+  "clientsecret" : "Fw7kfFkXfMQ6SVniMfUdcTbmA7sPdpuT",
+  "clientcallback" : "https://theservers.glitch.me/callback",
+  "mongoURL" : "mongodb+srv://dosetaratre:e5OR0NCgKKPIBc5P@cluster0.wxblxrc.mongodb.net/?retryWrites=true&w=majority",
+  "serverID": "1083481254445465690",
+  "footer": "The Servers",
+  "tags": ["Moderation", "Fun", "Music","Economy","Guard","NSFW","Anime","Invite","Minecraft","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
+}
